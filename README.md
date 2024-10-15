@@ -25,9 +25,9 @@
 
 <h3 align="left">My Project</h3>
 <p align="left">
-  <a href="https://repostory-project.vercel.app/post1" /></br>
-  <a href="https://repostory-project.vercel.app/post2" /></br>
-  <a href="https://repostory-project.vercel.app/post3" /></br>
+  <a href="https://github.com/YanzOffc/ai-chat"><img src="https://repostory-project.vercel.app/post1"/></br>
+  <a href="https://github.com/YanzOffc/cek-kodam"><img src="https://repostory-project.vercel.app/post2"/></br>
+  <a href="https://github.com/YanzOffc/calculator"<img src="https://repostory-project.vercel.app/post3"/></br>
 </p>
 
 <h3 align="left">Github Stats</h3>
